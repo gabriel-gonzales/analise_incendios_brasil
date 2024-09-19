@@ -51,7 +51,7 @@ O projeto revelou como fatores climáticos impactam significativamente a incidê
 
 Os dados utilizados estão disponíveis na plataforma Kaggle e podem ser acessados diretamente no ambiente do notebook.
 
-Disponível em:
+Disponível também em:
 
       www.kaggle.com/datasets/mayaravalliero/fire-watch-brazil-2024
 
