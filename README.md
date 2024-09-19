@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto tem como objetivo analisar os incêndios florestais ocorridos no Brasil durante o ano de 2024. Utilizamos dados climáticos e informações sobre o risco de fogo (FRP - Fire Radiative Power) para entender como fatores como dias sem chuva, precipitação e outras variáveis influenciam a incidência de incêndios.
+Este projeto tem como objetivo analisar os incêndios florestais ocorridos no Brasil durante o ano de 2024. Foi utilizado dados climáticos e informações sobre o risco de fogo (FRP - Fire Radiative Power) para entender como fatores como dias sem chuva, precipitação e outras variáveis influenciam a incidência de incêndios.
 
 O foco principal está na análise exploratória de dados (EDA) e visualização gráfica para identificar padrões regionais e temporais dos incêndios. A análise permite compreender melhor as regiões e os períodos mais suscetíveis ao fogo, oferecendo insights importantes para a prevenção de futuros incêndios.
 
