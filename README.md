@@ -9,9 +9,12 @@ O foco principal está na análise exploratória de dados (EDA) e visualização
 ## Estrutura do Projeto
 
 - **Bibliotecas Utilizadas**:
-    - `pandas`: Para manipulação de dados.
+    - `numpy`: Para operações numéricas e manipulação de arrays.
+    - `pandas`: Para manipulação e análise de dados.
     - `matplotlib` e `seaborn`: Para visualizações gráficas.
-    - `scikit-learn`: Para pré-processamento de dados e análise de componentes principais (PCA).
+    - `statsmodels`: Para modelagem estatística e testes de hipóteses.
+    - `scipy.stats`: Para cálculos estatísticos, incluindo correlação de Pearson.
+
   
 - **Principais Etapas**:
     1. **Carregamento dos Dados**: Os dados utilizados são distribuídos em três quadrimestres do ano de 2024, representando diversas variáveis climáticas e de risco de fogo por estado.
@@ -45,7 +48,7 @@ O foco principal está na análise exploratória de dados (EDA) e visualização
 
 ## Conclusão
 
-O projeto revelou como fatores climáticos impactam significativamente a incidência de incêndios florestais no Brasil. Estados como Mato Grosso e Pará foram os mais afetados pelos períodos secos, enquanto a precipitação foi um fator decisivo para reduzir o risco em regiões como Amazonas. A análise dos dados climáticos oferece insights valiosos para a prevenção e controle de incêndios, ajudando a definir estratégias futuras de combate ao fogo.
+O projeto revelou como fatores climáticos impactam significativamente a incidência de incêndios florestais no Brasil. Estados como Mato Grosso e Pará foram os mais afetados pelos períodos secos, enquanto a precipitação foi um fator decisivo para reduzir o risco em regiões como o Amazonas. No entanto, além das condições climáticas, fatores humanos têm influenciado fortemente a propagação dos incêndios. O desmatamento, a expansão agrícola descontrolada e a falta de fiscalização ambiental têm contribuído para agravar a situação. A análise dos dados climáticos, combinada com a compreensão desses fatores humanos, oferece insights valiosos para a prevenção e controle de incêndios, ajudando a definir estratégias futuras mais abrangentes de combate ao fogo, que incluam tanto a mitigação de riscos climáticos quanto o controle das ações humanas que amplificam o problema.
 
 ## Fontes dos Dados
 
